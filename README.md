@@ -4,6 +4,11 @@
 
 - This is a project for voice conversation with chat GPT.
 
+## Requirements
+
+- tsc
+- sox
+
 ## How to Run
 
 - run 'cp .env.example .env' to create .env file
